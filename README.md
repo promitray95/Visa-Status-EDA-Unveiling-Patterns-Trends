@@ -1,2 +1,2 @@
-# Visa-Status EDA: Unveiling Patterns Trends
-Performing exploratory data analysis on visa status data using Python to identify and understand factors influencing visa approvals and rejection rates 
+This project focuses on performing exploratory data analysis (EDA) using Python on visa status data to uncover patterns, trends, and key insights. This analysis aims to understand the factors influencing visa acceptance and rejection rates. The project includes data cleaning and manipulation, visualizations, and statistical (univariate and bivariate) analysis to provide a comprehensive overview of visa application outcomes and identify significant trends, correlations, and anomalies that can provide deeper insights into the visa decision-making process.
+
